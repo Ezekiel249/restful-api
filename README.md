@@ -130,13 +130,6 @@ You can write your own test cases inside the `tests/` folder.
 * `routes/web.php` – Web routes
 * `routes/api.php` – API routes (optional)
 
----
-
-## 📸 Screenshots (Optional)
-
-*Add images of the interface or API responses.*
-
----
 
 ## 🤝 Contributing
 
