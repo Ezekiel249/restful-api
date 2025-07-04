@@ -150,10 +150,3 @@ Feel free to fork this repository and submit pull requests.
 ## ✍️ Author
 
 * [Ezekiel249](https://github.com/Ezekiel249)
-
-```
-
----
-
-Would you like me to also generate code templates for the `Author` and `Book` models, migrations, or controllers?
-```
