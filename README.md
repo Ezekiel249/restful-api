@@ -23,7 +23,6 @@ This is a Laravel-based web application to manage **Authors** and their **Books*
 - Composer
 - MySQL or any supported database
 - Laravel 10+
-- Node.js & npm (for frontend assets, if used)
 
 ---
 
